@@ -1,5 +1,8 @@
 # wouter.github.io
-This repository contains my ITalent portfolio as an Angular webapp.
+This repository contains my ITalent portfolio as an Angular app. You can find this website under the following domains:
+- wouter.github.io
+- wouter-vanherck.tk
+- wouter-vanherck.cf
 
 ### Developer shortcuts
 
