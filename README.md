@@ -4,6 +4,12 @@ This repository contains my ITalent portfolio as an Angular app. You can find th
 - wouter-vanherck.tk
 - wouter-vanherck.cf
 
+### References
+
+- The [**Creative** Template](https://blackrockdigital.github.io/startbootstrap-creative/) was used, avaible under the MIT license.
+- Inspiration taken from [Maarten Bloemen's portfolio](http://www.maartenbloemen.me/portfolio.php).
+
+
 ### Developer shortcuts
 
 - [GitHub Pages](https://pages.github.com/)
