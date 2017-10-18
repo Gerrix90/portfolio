@@ -1,19 +1,18 @@
-# wouter.github.io
+# woutervanherck.github.io/portfolio
 This repository contains my ITalent portfolio as an Angular app. You can find this website under the following domains:
-- wouter.github.io
-- wouter-vanherck.tk
-- wouter-vanherck.cf
+- https://woutervanherck.github.io/portfolio
+- https://wouter-vanherck.tk
 
 ### References
 
-- The [**Creative** Template](https://blackrockdigital.github.io/startbootstrap-creative/).
-- The [**Agency** Template](https://blackrockdigital.github.io/startbootstrap-agency/).
+- [**Creative** Template](https://blackrockdigital.github.io/startbootstrap-creative/).
+- [**Agency** Template](https://blackrockdigital.github.io/startbootstrap-agency/).
 - Inspiration taken from [Maarten Bloemen's portfolio](http://www.maartenbloemen.me/portfolio.php).
 
 
 ### Developer shortcuts
 
 - [GitHub Pages](https://pages.github.com/)
-- [Deploy angular app on GitHub pages](http://blog.tmtk.net/post/2017-01-13-how-to-deploy-angular-app-on-github-pages/)
+- [Deploy angular app on GitHub Pages](http://blog.tmtk.net/post/2017-01-13-how-to-deploy-angular-app-on-github-pages/)
 > ng build --output-path=docs --base-href=.
-- [Bootstrap themes](https://startbootstrap.com/)
+- [Bootstrap Themes](https://startbootstrap.com/)
