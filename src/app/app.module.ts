@@ -12,6 +12,7 @@ import { GridComponent } from './components/grid/grid.component';
 import { ReflectionComponent } from './components/reflection/reflection.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { NavbarComponent } from './components/navbar/navbar.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { FooterComponent } from './components/footer/footer.component';
     GridComponent,
     ReflectionComponent,
     ContactComponent,
-    FooterComponent
+    FooterComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,
