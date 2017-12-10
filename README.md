@@ -7,6 +7,7 @@ This repository contains my ITalent portfolio as an Angular app. You can find th
 
 - [**Creative** Template](https://blackrockdigital.github.io/startbootstrap-creative/).
 - [**Agency** Template](https://blackrockdigital.github.io/startbootstrap-agency/).
+- [**Casual** Template](https://blackrockdigital.github.io/startbootstrap-business-casual/).
 - Inspiration taken from [Maarten Bloemen's portfolio](http://www.maartenbloemen.me/portfolio.php).
 
 

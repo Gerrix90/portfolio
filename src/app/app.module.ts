@@ -14,6 +14,7 @@ import { GridComponent } from './components/grid/grid.component';
 import { ReflectionComponent } from './components/reflection/reflection.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { CarouselComponent } from './components/carousel/carousel.component';
 
 
 @NgModule({
@@ -28,7 +29,8 @@ import { FooterComponent } from './components/footer/footer.component';
     GridComponent,
     ReflectionComponent,
     ContactComponent,
-    FooterComponent
+    FooterComponent,
+    CarouselComponent
   ],
   imports: [
     BrowserModule,
