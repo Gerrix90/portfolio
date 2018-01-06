@@ -888,3 +888,10 @@
 .carousel-indicators .active {
     background-color: #599fc8;
 }
+
+/* Wide picture (header-style) */
+.widepicture {
+    position: relative;
+    width: 100%;
+    height: 20%;
+}
